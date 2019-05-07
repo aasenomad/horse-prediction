@@ -1,10 +1,10 @@
-# Project Title
+# Horse Colic
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Predicting if a horse going to a live or died base on medical conditions.
 
 ## Getting Started
 
@@ -37,13 +37,5 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
+ex. Jonathan Hrang 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release

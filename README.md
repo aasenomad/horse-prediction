@@ -24,18 +24,4 @@ Predicting if a horse going to a live or died base on medical conditions.
 * Step-by-step bullets
 ```
 code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Jonathan Hrang 
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+`

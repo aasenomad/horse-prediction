@@ -1,6 +1,6 @@
 # Horse Colic
 
-Simple overview of use/purpose.
+I used a dataset from Kaggle for this project.
 
 ## Description
 

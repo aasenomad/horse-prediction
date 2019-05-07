@@ -1,6 +1,7 @@
 # Horse Colic
 
 I used a dataset from Kaggle for this project.
+to look at the original dataset, https://www.kaggle.com/uciml/horse-colic
 
 ## Description
 
